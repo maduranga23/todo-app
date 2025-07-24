@@ -1,0 +1,14 @@
+# Dependencies
+node_modules/
+__pycache__/
+*.pyc
+
+# Build files
+dist/
+build/
+
+# Environment variables
+.env
+
+# Docker
+*.log
